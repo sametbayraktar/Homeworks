@@ -2,6 +2,7 @@ package Homework1;
 
 import java.util.Scanner;
 
+
 public class homework1 {
     public static void main(String[] args) {
 
@@ -26,7 +27,7 @@ public class homework1 {
             System.out.print("Please enter a number = ");
             int number2 = read.nextInt();
             if (number2 >= 0)
-            total2 = total2 + number2;
+                total2 = total2 + number2;
             else
                 total2 = total2;
         }
