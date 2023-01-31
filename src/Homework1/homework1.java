@@ -12,18 +12,18 @@ public class homework1 {
 
         int total1 = 0;
 
-        for (int i = 0; i < 100; i++){
+        for (int i = 0; i < 100; i++) {
             System.out.print("Please enter a number = ");
             int number1 = read.nextInt();
             total1 = total1 + number1;
         }
-        System.out.println("Total1 = "+total1);
+        System.out.println("Total1 = " + total1);
 
         //Question 2 : Sum only the positive numbers from the 100 entered numbers.
 
         int total2 = 0;
 
-        for (int i = 0; i < 100; i++){
+        for (int i = 0; i < 100; i++) {
             System.out.print("Please enter a number = ");
             int number2 = read.nextInt();
             if (number2 >= 0)
@@ -31,13 +31,13 @@ public class homework1 {
             else
                 total2 = total2;
         }
-        System.out.println("Total2 = "+total2);
+        System.out.println("Total2 = " + total2);
 
         //Question 3 : Sum only the negative numbers from the 100 entered numbers.
 
         int total3 = 0;
 
-        for (int i = 0; i < 100; i++){
+        for (int i = 0; i < 100; i++) {
             System.out.print("Please enter a number = ");
             int number3 = read.nextInt();
             if (number3 < 0)
@@ -45,7 +45,7 @@ public class homework1 {
             else
                 total3 = total3;
         }
-        System.out.println("Total3 = "+total3);
+        System.out.println("Total3 = " + total3);
 
         // Question 4 : Write the sum of the numbers up to a number you will receive from the user.
 
@@ -53,10 +53,10 @@ public class homework1 {
         System.out.print("Please enter a number = ");
         int number4 = read.nextInt();
 
-        for (int i = 0; i <= number4; i++){
+        for (int i = 0; i <= number4; i++) {
             total4 = total4 + i;
         }
-        System.out.println("Total4 = "+total4);
+        System.out.println("Total4 = " + total4);
 
     }
 }
