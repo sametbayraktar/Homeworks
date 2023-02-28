@@ -8,7 +8,7 @@ public class homework5 {
         Scanner read = new Scanner(System.in);
 
         //Question 1 : Write a code to print all even numbers between 0 and 100. Note: 0 to 100 is also included.
-/*
+
         for (int i = 0; i <= 100; i++) {
             if (i % 2 == 0) {
                 System.out.println("Even numbers = " + i);
@@ -102,7 +102,7 @@ public class homework5 {
             }
             System.out.println();
         }
-        */
+
         //Question 10 : Print all even numbers between 0 and 30 using the Do While loop.
 
         int range = 0;
