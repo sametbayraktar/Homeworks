@@ -1,7 +1,6 @@
 package Project1;
 
 import java.util.Scanner;
-import java.util.function.ToDoubleBiFunction;
 
 public class Project_1 {
     public static void main(String[] args) {
