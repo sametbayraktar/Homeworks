@@ -1,8 +1,8 @@
-package Homework2;
+package Java_Workshops_2;
 
 import java.util.Locale;
 
-public class homework2 {
+public class Java_Workshops_2 {
     public static void main(String[] args) {
 
         // Question 1 : *I love java* Print the total number of characters for this sentence.

@@ -1,9 +1,9 @@
-package Homework1;
+package Java_Workshops_1;
 
 import java.util.Scanner;
 
 
-public class homework1 {
+public class Java_Workshops_1 {
     public static void main(String[] args) {
 
         Scanner read = new Scanner(System.in);

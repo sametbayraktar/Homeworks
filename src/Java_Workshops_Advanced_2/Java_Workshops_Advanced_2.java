@@ -1,8 +1,8 @@
-package SpecialQuestions2;
+package Java_Workshops_Advanced_2;
 
 import java.util.Scanner;
 
-public class specialQuestions2 {
+public class Java_Workshops_Advanced_2 {
     public static void main(String[] args) {
 
         Scanner read = new Scanner(System.in);

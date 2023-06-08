@@ -1,11 +1,11 @@
-package Questions_8_Set;
+package Java_Workshops_8;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 
-public class Questions_Set {
+public class Java_Workshops_8 {
     public static void main(String[] args) {
 
 

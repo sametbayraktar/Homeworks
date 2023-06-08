@@ -1,9 +1,9 @@
-package Homework7;
+package Java_Workshops_7;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class homework7 {
+public class Java_Workshops_7 {
     public static void main(String[] args) {
 
         Scanner scanInt = new Scanner(System.in);

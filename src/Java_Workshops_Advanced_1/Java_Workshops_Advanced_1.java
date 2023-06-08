@@ -1,9 +1,9 @@
-package SpecialQuestions1;
+package Java_Workshops_Advanced_1;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class specialQuestions1 {
+public class Java_Workshops_Advanced_1 {
     public static void main(String[] args) {
 
         Scanner read = new Scanner(System.in);
